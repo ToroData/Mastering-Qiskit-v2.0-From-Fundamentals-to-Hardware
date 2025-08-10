@@ -94,12 +94,12 @@ Mastering-Qiskit-v2.0/
 | 3   | Preparing Quantum States – One Qubit                            | Released     | 08/09/2025 |
 | 4   | Preparing Quantum States – Superposition                        | Released     | 08/10/2025 |
 | 5   | Preparing Multi-Qubit States – Bell States and Ordering         | Released     | 08/11/2025 |
-| 6   | Introduction to the Qiskit Stack                                | Soon         | 08/12/2025 |
-| 7   | Introduction to Qiskit Patterns                                 | Soon         | 08/13/2025 |
-| 8   | Using the Qiskit Circuit Library                                | Soon         | 08/14/2025 |
-| 9   | Constructing Circuits Programmatically                          | Soon         | 08/15/2025 |
-| 10  | Measuring Qubits                                                 | Soon         | 08/16/2025 |
-| 11  | Fractional Gates                                                 | Soon         | 08/17/2025 |
+| 6   | Introduction to the Qiskit Stack                                | Soon         | 08/13/2025 |
+| 7   | Introduction to Qiskit Patterns                                 | Soon         | 08/15/2025 |
+| 8   | Using the Qiskit Circuit Library                                | Soon         | 08/18/2025 |
+| 9   | Constructing Circuits Programmatically                          | Soon         | 08/20/2025 |
+| 10  | Measuring Qubits                                                 | Soon         | 08/22/2025 |
+| 11  | Fractional Gates                                                 | Soon         | 08/25/2025 |
 | 12  | Implementing Classical Feedforward Logic and Conditional Execution | Soon     | —          |
 | 13  | Understanding Qubit and Bit Ordering in Qiskit                  | Soon         | —          |
 | 14  | Controlling Timing and Stretch for Quantum Scheduling           | Soon         | —          |
