@@ -100,17 +100,17 @@ Mastering-Qiskit-v2.0/
 | 9   | Constructing Circuits Programmatically                          | Soon         | 08/20/2025 |
 | 10  | Measuring Qubits                                                 | Soon         | 08/22/2025 |
 | 11  | Fractional Gates                                                 | Soon         | 08/25/2025 |
-| 12  | Implementing Classical Feedforward Logic and Conditional Execution | Soon     | —          |
-| 13  | Understanding Qubit and Bit Ordering in Qiskit                  | Soon         | —          |
-| 14  | Controlling Timing and Stretch for Quantum Scheduling           | Soon         | —          |
-| 15  | Re-Synthesizing Unitary Operators for Circuit Optimization      | Soon         | —          |
-| 16  | Saving and Loading Circuits with QPY Serialization              | Soon         | —          |
-| 17  | Exploring Operator Classes and Their Applications               | Soon         | —          |
-| 18  | Measuring Observables in the Pauli Basis                        | Soon         | —          |
-| 19  | Working with the Operator Class in Depth                        | Soon         | —          |
-| 20  | Hardware-Aware Circuit Optimization with the Qiskit Transpiler  | Soon         | —          |
-| 21  | Running Quantum Jobs on IBM Hardware with Qiskit Runtime        | Soon         | —          |
-| 22  | Analyzing Results and Applying Error Mitigation                 | Soon         | —          |
+| 12  | Implementing Classical Feedforward Logic and Conditional Execution | Soon     | 08/27/2025    |
+| 13  | Understanding Qubit and Bit Ordering in Qiskit                  | Soon         | 08/29/2025   |
+| 14  | Controlling Timing and Stretch for Quantum Scheduling           | Soon         | 09/01/2025   |
+| 15  | Re-Synthesizing Unitary Operators for Circuit Optimization      | Soon         | 09/03/2025  |
+| 16  | Saving and Loading Circuits with QPY Serialization              | Soon         | 09/05/2025 |
+| 17  | Exploring Operator Classes and Their Applications               | Soon         | 09/08/2025 |
+| 18  | Measuring Observables in the Pauli Basis                        | Soon         | 09/10/2025 |
+| 19  | Working with the Operator Class in Depth                        | Soon         | 09/12/2025 |
+| 20  | Hardware-Aware Circuit Optimization with the Qiskit Transpiler  | Soon         | 09/15/2025 |
+| 21  | Running Quantum Jobs on IBM Hardware with Qiskit Runtime        | Soon         | 09/17/2025  |
+| 22  | Analyzing Results and Applying Error Mitigation                 | Soon         | 09/19/2025 |
 
 ---
 
