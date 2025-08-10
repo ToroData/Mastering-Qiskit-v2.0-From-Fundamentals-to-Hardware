@@ -1,6 +1,6 @@
 # Episode 4 — Preparing Quantum States: Superposition (One Qubit)
 
-**This episode covers** how to take the initialized state \( |0\rangle \) to an equal superposition \( (|0\rangle + |1\rangle)/\sqrt{2} \) using either the **Hadamard** gate or a **\(R_y(\pi/2)\)** rotation, and how to visualize and verify the result.
+**This episode covers** how to take the initialized state $|0\rangle$ to an equal superposition $ (|0\rangle + |1\rangle)/\sqrt{2}$ using either the **Hadamard** gate or a **$R_y(\pi/2)$** rotation, and how to visualize and verify the result.
 
 ## 🎯 Learning goals
 
