@@ -4,8 +4,8 @@
 
 ## 🎯 Learning goals
 
-- Initialize and reason about multi‑qubit base states like \( |00\rangle \).
-- Create a Bell state \( |\Phi^+\rangle = (|00\rangle + |11\rangle)/\sqrt{2} \).
+- Initialize and reason about multi‑qubit base states like $ |00\rangle $.
+- Create a Bell state $ |\Phi^+\rangle = (|00\rangle + |11\rangle)/\sqrt{2} $.
 - Understand Qiskit’s **little‑endian** ordering (rightmost bit = qubit 0).
 - Visualize two‑qubit states with `plot_state_city`.
 - Verify entanglement via reduced‑state **purity** and simulator counts.
