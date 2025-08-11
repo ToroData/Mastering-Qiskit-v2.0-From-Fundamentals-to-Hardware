@@ -8,11 +8,13 @@ assignees: ToroData
 ---
 
 ## 📌 Summary
+
 Describe the purpose of this PR.
 
 ---
 
 ## ✅ Checklist
+
 - [ ] I have read the [Contributing Guidelines](CONTRIBUTING.md)
 - [ ] My code follows PEP8 style
 - [ ] All functions have docstrings with parameters and returns documented
@@ -23,4 +25,5 @@ Describe the purpose of this PR.
 ---
 
 ## 📂 Related issue
+
 Closes #ISSUE_NUMBER (if applicable)
