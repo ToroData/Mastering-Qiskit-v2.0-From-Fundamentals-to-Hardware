@@ -2,6 +2,9 @@
 
 **This episode covers** creating and configuring your IBM Cloud + IBM Quantum account, generating an API token and (optional) CRN, saving credentials with `QiskitRuntimeService.save_account()`, initializing the service, listing devices, and submitting a minimal job to a real backend using the Runtime `Sampler`.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ToroData/Mastering-Qiskit-v2.0-From-Fundamentals-to-Hardware/blob/main/fundamentals/ep2-connect-ibm-cloud/episode-02.ipynb)
+
+
 ## 🎯 Learning goals
 
 - Create a Quantum **instance** and understand regions/plans.

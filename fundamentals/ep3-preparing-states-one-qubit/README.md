@@ -2,6 +2,8 @@
 
 **This episode covers** how to start from the base state $|0\rangle$ and create any single-qubit state $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$, using both the X gate and arbitrary rotations, and how to visualize states in the Bloch sphere.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ToroData/Mastering-Qiskit-v2.0-From-Fundamentals-to-Hardware/blob/main/fundamentals/ep3-preparing-states-one-qubit/episode-03.ipynb)
+
 ## 🎯 Learning goals
 
 - Understand **Dirac notation** for one-qubit states.

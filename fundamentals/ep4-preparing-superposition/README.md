@@ -2,6 +2,8 @@
 
 **This episode covers** how to take the initialized state $|0\rangle$ to an equal superposition $ (|0\rangle + |1\rangle)/\sqrt{2}$ using either the **Hadamard** gate or a **$R_y(\pi/2)$** rotation, and how to visualize and verify the result.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ToroData/Mastering-Qiskit-v2.0-From-Fundamentals-to-Hardware/blob/main/fundamentals/ep4-preparing-superposition/episode-04.ipynb)
+
 ## 🎯 Learning goals
 
 - Understand the target **equal superposition** state.

@@ -2,6 +2,9 @@
 
 This episode covers **how to install Qiskit v2.0 cleanly** without cluttering your system, ensuring your environment is isolated, reproducible, and ready for future episodes of this course.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ToroData/Mastering-Qiskit-v2.0-From-Fundamentals-to-Hardware/blob/main/fundamentals/ep1-python-env-setup/episode-01.ipynb)
+
+
 ## 🎯 Learning goals
 
 - Create an isolated Python environment for Qiskit v2.0

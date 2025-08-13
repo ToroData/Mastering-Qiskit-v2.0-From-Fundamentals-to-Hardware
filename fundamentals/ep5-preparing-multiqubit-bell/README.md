@@ -2,6 +2,8 @@
 
 **This episode covers** how to go from a single‑qubit superposition to **two‑qubit entanglement**, build a Bell state with `H` + `CX`, and interpret **bit ordering** (little‑endian) in Qiskit.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ToroData/Mastering-Qiskit-v2.0-From-Fundamentals-to-Hardware/blob/main/fundamentals/ep5-preparing-multiqubit-bell/episode-05.ipynb)
+
 ## 🎯 Learning goals
 
 - Initialize and reason about multi‑qubit base states like $ |00\rangle $.
