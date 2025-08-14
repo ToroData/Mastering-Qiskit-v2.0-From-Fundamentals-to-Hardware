@@ -1,13 +1,17 @@
 # Mastering Qiskit v2.0 – From Fundamentals to Hardware
 
-**Author:** Ricard Santiago Raigada García  
-**Status:** Episodes released daily  
+**Author:** Ricard Santiago Raigada García
+**Status:** Active
+
+**Citation:** To cite this course you can use the following DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872377.svg)](https://doi.org/10.5281/zenodo.16872377)
 
 ---
 
 ## 📖 About this Course
 
-**Mastering Qiskit v2.0** is a complete learning series designed to take you from the very basics of quantum circuits to running optimized workloads on IBM Quantum hardware.  
+**Mastering Qiskit v2.0** is a complete learning series designed to take you from the very basics of quantum circuits to running optimized workloads on IBM Quantum hardware.
 The course is based on the latest **Qiskit v2.0** SDK and IBM Quantum Platform updates.
 
 This repository contains:
