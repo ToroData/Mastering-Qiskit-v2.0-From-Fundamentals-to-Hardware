@@ -129,6 +129,22 @@ After Episode 22, the series will continue with more advanced topics:
 
 ---
 
+## 📜 Educational Program
+
+This course follows a structured educational program that outlines the complete Phase 1 learning plan, including:
+
+- A detailed description of the course scope and structure.
+- Specific learning objectives for each phase.
+- Competencies and skills to be acquired.
+- Teaching methodology and delivery mode.
+- Assessment and self-evaluation criteria.
+
+You can consult the full educational program here:
+
+[📄 View Educational Program (PDF)](assets/Mastering_Qiskit_v2_0___Phase_1_Curriculum.pdf)
+
+---
+
 ## 📢 Stay Updated
 
 Episodes are published daily on:
